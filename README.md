@@ -111,7 +111,7 @@ python --version
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/yagyeshVyas/linkedin-scraper.git
+git clone https://github.com/aster-go/linkedin-scraper.git
 cd linkedin-scraper
 ```
 
@@ -477,7 +477,7 @@ playwright install chromium
 **❌ 0 results every time**
 
 → LinkedIn may have updated their HTML structure.
-→ Open an [Issue](https://github.com/yagyeshVyas/linkedin-scraper/issues) and I'll investigate.
+→ Open an [Issue](https://github.com/aster-go/linkedin-scraper/issues) and I'll investigate.
 
 ---
 
